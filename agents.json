@@ -1,0 +1,7 @@
+{
+  "token": "$PSYCHOSIS",
+  "ca": "mnDb2WBaq18Vb9fDNgnX3guEPgrCfrBa5xkjX7Wpump",
+  "network": "solana",
+  "agents": 1000,
+  "per_agent": 1000000
+}
