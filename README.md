@@ -11,6 +11,11 @@
 
 <br/>
 
+`CA: mnDb2WBaq18Vb9fDNgnX3guEPgrCfrBa5xkjX7Wpump`
+
+<br/>
+
+[![Buy $PSYCHOSIS](https://img.shields.io/badge/Buy-%24PSYCHOSIS-9000cc?style=for-the-badge)](https://pump.fun/coin/mnDb2WBaq18Vb9fDNgnX3guEPgrCfrBa5xkjX7Wpump)
 [![X / Twitter](https://img.shields.io/badge/X-%40PsychosisWTF-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PsychosisWTF)
 [![Website](https://img.shields.io/badge/Web-psychosis.wtf-6000cc?style=for-the-badge&logoColor=white)](https://psychosis.wtf)
 
